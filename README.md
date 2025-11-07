@@ -1,7 +1,7 @@
-# Customer-Trend-Analysis
+# Customer-Shopping behavior Analysis
 > **Project Overview**
 
-This project analyzes customer Trend using transactional data from 3,900 purchases across multiple product categories. The goal is to identify spending patterns, customer segments, product preferences, and subscription trends to support strategic business decisions.
+This project analyzes customer Shopping behavior Analysis using transactional data from 3,900 purchases across multiple product categories. The goal is to identify spending patterns, customer segments, product preferences, and subscription trends to support strategic business decisions.
 
 > **Dataset Summary**
 
